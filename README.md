@@ -12,13 +12,13 @@
   - Pytorch를 이용한 CNN 블록 구현
   - FC layer모델 구현
 
-- 박한얼
+- 박한얼 hanul.park@gmail.com
 
   - 개발 환경 구축
   - 데이터 전처리
   - Hyperparameter 최적화
 
-- 김선아
+- 김선아 llksall@pusan.ac.kr
   - 학습 데이터셋 탐색
   - input dataset 훈련모델(Trainer) 구현
   - 모델 성능 측정
