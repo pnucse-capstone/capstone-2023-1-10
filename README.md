@@ -46,7 +46,7 @@ _DeepDTA 구조_
 
 ### 4. 소개 및 시연 영상
 
--소개 영상
+-소개 영상 : https://youtube.com/watch?v=raNwONzdBWE&si=bydRqVApjQgaakod
 
 ### 5. 사용법
 
